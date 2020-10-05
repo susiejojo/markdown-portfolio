@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Courses
+  - SMAI
+  - MR
+  - DnC
+  - Sociology
+  - Functional Analysis
